@@ -6,6 +6,7 @@
 ## [实验任务二]：Project 2010中资源的创建，分配资源
 1.实现下图所示项目的优先网络；
 2.上述项目的资源(人员)需求如下表所示：
+![加载中---](https://github.com/meetquestion/Progress-and-resource-management/edit/master/2.jpg)
 3.需要截图的输出：
 1.资源工作表
 2.任务活动表
